@@ -1,0 +1,14 @@
+﻿  win32_platform.cpp
+C:\Users\Quant\source\repos\TicTacToe\TicTacToe\Source Files\renderer.cpp(40,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source%20Files/win32_platform.cpp')
+  
+C:\Users\Quant\source\repos\TicTacToe\TicTacToe\Source Files\renderer.cpp(41,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source%20Files/win32_platform.cpp')
+  
+C:\Users\Quant\source\repos\TicTacToe\TicTacToe\Source Files\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source%20Files/win32_platform.cpp')
+  
+C:\Users\Quant\source\repos\TicTacToe\TicTacToe\Source Files\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source%20Files/win32_platform.cpp')
+  
+  TicTacToe.vcxproj -> C:\Users\Quant\source\repos\TicTacToe\x64\Debug\TicTacToe.exe
